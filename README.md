@@ -7,6 +7,6 @@ In my time at University of Udine, I've been lucky to have a multidisciplinary e
 Since the start of 2021 I've been also particularly interested in blockchain technology — in the last months I've developed some projects and attended a handful of courses regarding Web3.0, dApps, DeFi and NFTs.
 I hope I can enrich my knowledge about these topics in the next years.
 
-[![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocintnaf&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocintnaf&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
 
